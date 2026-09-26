@@ -30,4 +30,3 @@ jobs:
           EXIT_WHEN_FAIL: ${{ vars.EXIT_WHEN_FAIL }}
         run: |
           python src/main.py
-          # asas
